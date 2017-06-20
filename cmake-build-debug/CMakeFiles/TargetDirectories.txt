@@ -1,0 +1,3 @@
+/Users/nvp/CLionProjects/SDL Basics/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/nvp/CLionProjects/SDL Basics/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nvp/CLionProjects/SDL Basics/cmake-build-debug/CMakeFiles/SDL_Basics.dir

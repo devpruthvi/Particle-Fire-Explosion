@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nvp/CLionProjects/SDL Basics/Particle.cpp
+Particle.h
+/Users/nvp/CLionProjects/SDL Basics/Particle.h
+Screen.h
+/Users/nvp/CLionProjects/SDL Basics/Screen.h
+
+/Users/nvp/CLionProjects/SDL Basics/Particle.h
+
+/Users/nvp/CLionProjects/SDL Basics/Screen.cpp
+Screen.h
+/Users/nvp/CLionProjects/SDL Basics/Screen.h
+
+/Users/nvp/CLionProjects/SDL Basics/Screen.h
+SDL2/SDL.h
+-
+
+/Users/nvp/CLionProjects/SDL Basics/Swarm.cpp
+Swarm.h
+/Users/nvp/CLionProjects/SDL Basics/Swarm.h
+
+/Users/nvp/CLionProjects/SDL Basics/Swarm.h
+Particle.h
+/Users/nvp/CLionProjects/SDL Basics/Particle.h
+
+/Users/nvp/CLionProjects/SDL Basics/main.cpp
+iostream
+-
+Swarm.h
+/Users/nvp/CLionProjects/SDL Basics/Swarm.h
+SDL2/SDL.h
+-
+Screen.h
+/Users/nvp/CLionProjects/SDL Basics/Screen.h
+cmath
+-
+
